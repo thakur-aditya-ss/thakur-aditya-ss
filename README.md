@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thakur-aditya-ss
+- 👀 I’m interested in coding and programming
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate with you
+- 📫 Looking for opportunity
